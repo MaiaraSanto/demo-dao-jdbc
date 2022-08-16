@@ -3,16 +3,16 @@ package model.entities;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Department implements Serializable {
+public class Cadcli implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	private Integer Codcli;
 	private String Nomecli;
 	
-	public Department( ) {	
+	public Cadcli( ) {	
 	}
 
-	public Department(Integer codcli, String nomecli) {
+	public Cadcli(Integer codcli, String nomecli) {
 		Codcli = codcli;
 		Nomecli = nomecli;
 	}
@@ -46,7 +46,7 @@ public class Department implements Serializable {
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		Department other = (Department) obj;
+		Cadcli other = (Cadcli) obj;
 		return Objects.equals(Codcli, other.Codcli);
 	}
 
