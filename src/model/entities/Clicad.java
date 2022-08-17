@@ -24,6 +24,7 @@ public class Clicad implements Serializable {
 		Clicep = clicep;
 		Clidata = clidata;
 		Cligenero = cligenero;
+
 	}
 
 	public Integer getClicod() {
