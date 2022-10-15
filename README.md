@@ -1,5 +1,6 @@
 # demo-dao-jdbc
-Primeira parte do Projeto sobre Integração do Banco de Dados do MYSql à Linguagem de Programação JAVA, via API JDBC. 
+ ***
+ Projeto sobre Integração do Banco de Dados do MYSql à Linguagem de Programação JAVA, via API JDBC. 
 
 Neste primeiro momento. houve a inserção de todos os registros da Tabela Cadcli e Clicad, para dentro do Console da IDE Spring Tools ( Boot). 
 
