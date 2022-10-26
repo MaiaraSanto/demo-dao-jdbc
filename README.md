@@ -10,7 +10,7 @@ aprimorar futuramente uma RP com base em dados voltado a área da saúde.
 
 ***
 
-# Script feito no MySQL e integrado ao JAVA através da API JDBC
+# Script feito no MySQL e integrado ao JAVA através da API JDBC.
 
 ```bash
 
